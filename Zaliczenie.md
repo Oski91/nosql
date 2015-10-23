@@ -11,7 +11,7 @@
 1. Leyk Szymon
 1. Maziarz Paulina
 1. Mielniczuk Małgorzata
-1. Pawłowicz Oskar
+1. [Pawowicz, Oskar](https://github.com/Oski91/no_sql.git)
 1. Polnik Aleksander
 1. Pranszke Tomasz
 1. [Sikora Jacek](https://github.com/jaresh/nosql)
